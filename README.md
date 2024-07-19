@@ -1,4 +1,4 @@
-# Payment-Setroom(Aplikasi Pembayaran Listrik Pasca Bayar)
+# (Aplikasi Pembayaran Listrik Pasca Bayar)
 Sebuah aplikasi berbasis web yang bertujuan untuk membayar listrik pasca bayar
 
 ## Fitur
